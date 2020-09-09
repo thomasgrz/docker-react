@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          ITS A ME <code>src/App.js</code> and save to reload.
+          This page was created by merging a feature branch in GitHub which triggered a Travis deployment!
         </p>
         <a
           className="App-link"
